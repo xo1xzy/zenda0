@@ -11,5 +11,5 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generati
 - following this procedure
 
 ```sh
-
+ssh-keygen -t ed25519 -C "smellpanty@drinkpee.com"
 ```

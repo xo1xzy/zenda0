@@ -1,0 +1,17 @@
+{
+    "editor.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.list.smoothScrolling": true,
+    "terminal.integrated.fontFamily": "GoMono Nerd Font Mono",
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.lineHeight": 2,
+    "terminal.integrated.cursorBlinking": true,
+    "editor.fontSize": 18,
+    "editor.fontFamily": "GoMono Nerd Font Mono",
+    "editor.renderWhitespace": "all",
+    "editor.guides.bracketPairs": true,
+    "editor.lineHeight": 2,
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
